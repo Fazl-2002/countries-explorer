@@ -89,27 +89,6 @@ The project uses the [REST Countries API](https://restcountries.com/):
 | `https://restcountries.com/v3.1/name/{name}` | Search by country name |
 | `https://restcountries.com/v3.1/region/{region}` | Filter by region |
 
----
-
-## 📸 **Screenshots**
-
-### **Home Page:**
-[All countries displayed in glassmorphic cards with neon borders]
-
-text
-
-### **Search Results:**
-[Filtered countries based on search term]
-
-text
-
-### **Region Filter:**
-[Countries filtered by selected region]
-
-text
-
----
-
 ## 🚀 **Installation**
 
 Follow these steps to run the project locally:
